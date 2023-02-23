@@ -1,2 +1,0 @@
-# Alura-Cast
-Praticando Grid
